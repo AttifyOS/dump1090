@@ -1,0 +1,9 @@
+[package_detail]
+name = "dump1090"
+description = "Dump1090 is a simple Mode S decoder for RTLSDR devices"
+version = "de61bd5"
+source_url = "https://github.com/antirez/dump1090"
+license = "BSD-3-Clause"
+install_script = "setup.sh"
+install_script_type = "shell"
+
